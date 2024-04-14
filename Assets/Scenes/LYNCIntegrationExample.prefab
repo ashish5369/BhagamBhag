@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8760938816231422770
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2574169615334039638}
+  - component: {fileID: 4073998893486068320}
+  m_Layer: 0
+  m_Name: LYNCIntegrationExample
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2574169615334039638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8760938816231422770}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4073998893486068320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8760938816231422770}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2813a207e6aaaa54f98c758fe3707723, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  login: {fileID: 0}
+  logout: {fileID: 0}
+  mint: {fileID: 0}
+  aptosContainer: {fileID: 0}
+  WalletAddressText: {fileID: 0}
+  loginDateTxt: {fileID: 0}
+  balance: {fileID: 0}
+  pontemContainer: {fileID: 0}
+  transactionResultsParent: {fileID: 0}
+  transactionResultHolder: {fileID: 7745483059579634397, guid: ec5af3f3746218347bb2036f04b39301,
+    type: 3}
+  mintTxn:
+    contractAddress: 0x55db3f109405348dd4ce271dc92a39a6e1cbc3d78cf71f6bf128b1c8a9dfac33
+    contractName: tst_unity
+    functionName: set_data_bytes
+    network: 2
+    arguments:
+    - argument: 0xb66b180422a4886dac85b8f68cc42ec1c6bafc824e196d437fdfd176192c25fccfc10e47777699420eec0c54a0176861a353a43dd45b338385e1b975709f2000
+      type: 2
+    transactionId: 
+    publicAddress: 
+    privateAddress: 
+    firebaseUid: 
+    usePaymaster: 0
