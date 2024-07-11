@@ -1,7 +1,8 @@
 ## Bhagam Bhaag: Victorious at the DIMO HACKATHON
 
 We are thrilled to announce that our team, **int_cognito**, emerged victorious in the LYNC track of the 24-hour **DIMO HACKATHON** held on April 13-14, 2024, with our project **Bhagam Bhaag**! 🏆 We were awarded a cash prize of ₹5000 for our innovative efforts.
-![Bhagam Bhaag Demo][https://github.com/yourusername/yourrepo/blob/main/bhagam_bhaag_demo.png](https://github.com/ashish5369/BhagamBhag/blob/616073e7a2d25b0b437975c984211972bf5d33f5/6cf01360-ae35-49f2-b9c4-4fb79a440130.png)
+
+[Bhagam Bhaag Demo][https://github.com/yourusername/yourrepo/blob/main/bhagam_bhaag_demo.png](https://github.com/ashish5369/BhagamBhag/blob/616073e7a2d25b0b437975c984211972bf5d33f5/6cf01360-ae35-49f2-b9c4-4fb79a440130.png)
 ### About Bhagam Bhaag
 
 **Bhagam Bhaag** is a revolutionary blockchain-based game designed to tackle key issues in the gaming industry by leveraging cutting-edge technologies to enhance user experience and security. Here are the key features of our project:
