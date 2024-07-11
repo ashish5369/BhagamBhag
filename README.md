@@ -1,7 +1,3 @@
-Here's a refined and structured version of your announcement, along with a detailed tech stack section for your GitHub page:
-
----
-
 ## Bhagam Bhaag: Victorious at the DIMO HACKATHON
 
 We are thrilled to announce that our team, **int_cognito**, emerged victorious in the LYNC track of the 24-hour **DIMO HACKATHON** held on April 13-14, 2024, with our project **Bhagam Bhaag**! 🏆 We were awarded a cash prize of ₹5000 for our innovative efforts.
